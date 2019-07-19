@@ -21,7 +21,7 @@ module.exports = appInfo => {
   // add your user config here
   const userConfig = {
     // myAppName: 'egg',
-    //1.0.0
+    //2.0.0
   };
 
   return {
